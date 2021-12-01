@@ -88,6 +88,6 @@ width:255px;
 
 img:hover {
     /* Give transform property to scale to 0.9 */
-    transform: scale 0.9 ;
+    transform: scale(0.9) ;
 }
 
